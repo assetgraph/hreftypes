@@ -3,7 +3,7 @@
 [![NPM version](https://badge.fury.io/js/hreftypes.svg)](http://badge.fury.io/js/hreftypes)
 [![Build Status](https://travis-ci.org/assetgraph/hreftypes.svg?branch=master)](https://travis-ci.org/assetgraph/hreftypes)
 [![Coverage Status](https://img.shields.io/coveralls/assetgraph/hreftypes.svg)](https://coveralls.io/r/assetgraph/hreftypes?branch=master)
-[![Dependency Status](https://david-dm.org/assetgraph/hreftypes.svg)](https://david-dm.org/assetgraph/hreftypes) [![Greenkeeper badge](https://badges.greenkeeper.io/assetgraph/hreftypes.svg)](https://greenkeeper.io/)
+[![Dependency Status](https://david-dm.org/assetgraph/hreftypes.svg)](https://david-dm.org/assetgraph/hreftypes)
 
 Hreftypes helps you determine if a href is of type `absolute`, `protocol-relative`, `root-relative`, `relative` or `inline`. This can be useful while resolving URI's across different types of assets in a website dependency graph.
 
