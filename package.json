@@ -2,7 +2,7 @@
   "name": "hreftypes",
   "description": "Figure out what type a href is. Useful to help resolve URI's between assets on a site",
   "repository": "git://github.com/assetgraph/hreftypes.git",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "BSD-3-Clause",
   "maintainers": [
     {
