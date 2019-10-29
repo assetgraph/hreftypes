@@ -5,7 +5,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/assetgraph/hreftypes.svg)](https://coveralls.io/r/assetgraph/hreftypes?branch=master)
 [![Dependency Status](https://david-dm.org/assetgraph/hreftypes.svg)](https://david-dm.org/assetgraph/hreftypes)
 
-Hreftypes helps you determine if a href is of type `absolute`, `protocol-relative`, `root-relative`, `relative` or `inline`. This can be useful while resolving URI's across different types of assets in a website dependency graph.
+Hreftypes helps you determine if a href is of type `absolute`, `protocolRelative`, `rootRelative`, `relative` or `inline`. This can be useful while resolving URI's across different types of assets in a website dependency graph.
 
 ## Installation
 
